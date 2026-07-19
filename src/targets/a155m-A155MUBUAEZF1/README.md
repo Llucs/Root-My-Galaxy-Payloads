@@ -5,8 +5,8 @@ device: Samsung Galaxy A15 4G (SM-A155M, a15ks)
 firmware: A155MUBUAEZF1 / ZTO
 display build: BP4A.251205.006.A155MUBUAEZF1
 fingerprint: samsung/a15ks/a15:16/BP4A.251205.006/A155MUBUAEZF1:user/release-keys
-kernel: 6.12.38-android15-8
-raw kernel SHA-256: 33A0146DF9C5E9EE1CE04C383FE5D2E41362DDF1FDA39BA72CB5AAEFA87B102C
+kernel: 6.12.38-android16-5-abA155MUBUAEZF1-4k
+raw kernel SHA-256: 33A0146DD1497F5EA9476DF2F5ED73D952934D83119B2A149C9C2041823FBB41
 ```
 
 `target.h` contains the exact symbol, layout, physical-load, trace, and KASLR
